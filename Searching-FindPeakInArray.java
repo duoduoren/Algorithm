@@ -1,6 +1,6 @@
 import java.util.Arrays;
 //1.
-public class Assignment2Searching {
+public class Searching {
 	public static void main(String[] args) {
 		int[] arr = new int[] {2, 7, 6, 5, 3, 4, 7, 1};
 		System.out.println(Assignment2Searching.FindPeakInArray(arr));
